@@ -1,1 +1,1 @@
-# GenAI_Project_OneByZero
+# GenAI_Project
